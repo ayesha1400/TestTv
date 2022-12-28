@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-28T15:12:02 IST" name="Suite" finished-at="2022-12-28T15:12:48 IST" duration-ms="46672">
+    <groups>
+    </groups>
+    <test started-at="2022-12-28T15:12:02 IST" name="Test" finished-at="2022-12-28T15:12:48 IST" duration-ms="46672">
+      <class name="testngDemo.SampleTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testngDemo.SampleTest@c88a337]" started-at="2022-12-28T15:12:00 IST" name="setUp" finished-at="2022-12-28T15:12:02 IST" duration-ms="2199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="goToURL()[pri:0, instance:testngDemo.SampleTest@c88a337]" started-at="2022-12-28T15:12:02 IST" name="goToURL" finished-at="2022-12-28T15:12:27 IST" duration-ms="25266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToURL -->
+        <test-method signature="ksa()[pri:1, instance:testngDemo.SampleTest@c88a337]" started-at="2022-12-28T15:12:27 IST" name="ksa" finished-at="2022-12-28T15:12:38 IST" duration-ms="10740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ksa -->
+        <test-method signature="bhr()[pri:2, instance:testngDemo.SampleTest@c88a337]" started-at="2022-12-28T15:12:38 IST" name="bhr" finished-at="2022-12-28T15:12:45 IST" duration-ms="7376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bhr -->
+        <test-method signature="kwt()[pri:3, instance:testngDemo.SampleTest@c88a337]" started-at="2022-12-28T15:12:45 IST" name="kwt" finished-at="2022-12-28T15:12:48 IST" duration-ms="3073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kwt -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:testngDemo.SampleTest@c88a337]" started-at="2022-12-28T15:12:48 IST" name="tear" finished-at="2022-12-28T15:12:48 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- testngDemo.SampleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
